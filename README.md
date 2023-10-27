@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello, I'm Mich, system engineer and frontend developer with a passion for design and styles.<br>I like video games and bread (Any bread)<br>I really like learning from online courses and putting into practice what I have learned in them<br>Do not forget to go through my Linkedin where I will be updating my academic and personal achievements ;)
+<br>Hello, I'm Michaen, system engineer and frontend developer with a passion for design and styles.<br>I like video games and bread (Any bread)<br>I really like learning from online courses and putting into practice what I have learned in them<br>Do not forget to go through my Linkedin where I will be updating my academic and personal achievements ;)
 
 
 ## 🌐 Socials:
